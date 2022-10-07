@@ -43,11 +43,3 @@
 		<a href="https://goo.gl/maps/Y4WZPhxHd5bKv4kf9" target="_blank">Hornsgatan 50, Stockholm</a>
 	</li>
 </ul>
-
-
-
-<style>
-	h1 {
-		margin: 4rem 0 0;
-	}
-</style>

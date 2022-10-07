@@ -1,6 +1,6 @@
 <script>
-	import Image from './Image.svelte';
-	import Welcome from './Welcome.svelte';
+	import Image from '../Image.svelte';
+	import Welcome from '../Welcome.svelte';
 </script>
 
 <svelte:head>
@@ -158,7 +158,7 @@
 	#intro h1 {
 		-webkit-background-clip: text;
 		background-clip: text;
-		background-image: url('bg.jpg');
+		background-image: url("/bg.jpg");
 		background-repeat: no-repeat;
 		background-size: cover;
 		color: rgba(0, 0, 0, 0.2);
