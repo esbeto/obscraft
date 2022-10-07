@@ -1,0 +1,6 @@
+@font-face {
+	font-family: Druk;
+	src: url('./druk-bold.woff2') format('woff2'), url('./druk-bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
